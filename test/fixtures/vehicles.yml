@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  patent: MyString
+  cod_vehicle: 1
+  brand: MyString
+  category: MyString
+  type: 
+  model: MyString
+
+two:
+  name: MyString
+  patent: MyString
+  cod_vehicle: 1
+  brand: MyString
+  category: MyString
+  type: 
+  model: MyString

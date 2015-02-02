@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  model: MyString
+  brand: MyString
+  n_comb: 1
+  c_comb: 1
+  mar_comb: MyString
+  mod_comb: MyString
+
+two:
+  model: MyString
+  brand: MyString
+  n_comb: 1
+  c_comb: 1
+  mar_comb: MyString
+  mod_comb: MyString
